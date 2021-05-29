@@ -2,6 +2,7 @@
 **English**
 
 This project is licensed under the terms of the GNU General Public License v3.0 license.
+
 Hello everyone, I am here to announce that I am making a only-python program that can translate "Lugat-it BGY" words to Turkish. This alghoritm is created by mahiroztekin. He created this because of the Restrictions that Facebook has. This is the first version of this program and I will add new features to this program.
 
 Some of my milestones on this project:
@@ -21,6 +22,7 @@ __*Credits:*__
 **Turkish**
 
 Bu proje GNU General Public License V3.0 ile lisanslanmıştır.
+
 Selamlar öncelikle, buraya sadece python ile yazılmış Lugat-it BGY kelimelerini Türkçe kelimelere çevirecek projemi tanıtmak için geldim. Algoritma orjinal olarak Mahiroztekin tarafından oluşturulmuştur. Mahiroztekin Facebook'un kısıtlamaları dolayısıyla bu algoritmayı oluşturmuştur. Bu kod şu anda programın ilk versiyonudur ve gelecekte de yeni özellikler ekleyeceğim bu programa.
 
 Bu proje için bazı hedeflerim:
