@@ -13,6 +13,7 @@ Being able to translate the string from Turkish words to "Lugat-it BGY" words.
 __*Credits:*__
 
 *Thank you Mert Duşakabin for giving me the idea of creating a program like this.*
+
 *Thank you Mahir Öztekin for creating this algorithm that gave me a inspiration of making a program like this.*
 
 ![Algorithm](Lugatca.png?raw=true "Lugatish Algorithm")
@@ -33,6 +34,7 @@ Türkçe kelimeleri Lugat-it BGY kelimelerine çevirme özelliği.
 __*Katkida bulunanlar:*__
 
 *Mert Duşakabin'e bana böyle bir program yazma fikri verdiği için teşekkür ederim.*
+
 *Algoritmayı oluşturduğun için teşekkür ederim.*
 
 ![Algoritma](Lugatca.png?raw=true "Lugatça Algoritma")
