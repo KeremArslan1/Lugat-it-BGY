@@ -16,9 +16,6 @@ __*Credits:*__
 
 *Thank you Mahir Öztekin for creating this algorithm that gave me a inspiration of making a program like this.*
 
-![Algorithm](Lugatca.png?raw=true "Lugatish Algorithm")
-
-
 
 **Turkish**
 
