@@ -10,7 +10,7 @@ Adding a GUI with Tkinter.
 
 Adding a feature called "Your own language", this will allow users to create their own algorithm and use them.
 
-~~Being able to translate the string from Turkish words to "Lugat-it BGY" words.~~
+~~Being able to translate the string of Turkish words to "Lugat-it BGY" words.~~
 
 __*Credits:*__
 
