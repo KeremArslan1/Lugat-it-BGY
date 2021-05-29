@@ -9,6 +9,7 @@ Adding a feature called "Your own language", this will allow users to create the
 Being able to translate the string from Turkish words to "Lugat-it BGY" words.
 
 __*Credits:*__
+
 *Thank you Mert Duşakabin for giving me the idea of creating a program like this.*
 *Thank you Mahir Öztekin for creating this algorithm that gave me a inspiration of making a program like this.*
 
@@ -21,6 +22,7 @@ Tkinter sayesinde bir kullanıcı arayüzü eklemek.
 "Kendi dilin" adındaki özelliği ekleyerek, kullanıcıların kendi algoritmalarını eklemelerini ve bu algoritmaları kullanmalarını sağlayacak.
 Türkçe kelimeleri Lugat-it BGY kelimelerine çevirme özelliği.
 
-__*KAtkida bulunanlar:*__
+__*Katkida bulunanlar:*__
+
 *Mert Duşakabin'e bana böyle bir program yazma fikri verdiği için teşekkür ederim.*
 *Algoritmayı oluşturduğun için teşekkür ederim.*
