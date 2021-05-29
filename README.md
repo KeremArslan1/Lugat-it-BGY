@@ -1,5 +1,4 @@
-# Lügat-it BGY
-**English**
+# English
 
 This project is licensed under the terms of the GNU General Public License v3.0 license.
 
@@ -20,7 +19,7 @@ __*Credits:*__
 *Thank you Mahir Öztekin for creating this algorithm that gave me a inspiration of making a program like this.*
 
 
-**Turkish**
+# Türkçe
 
 Bu proje GNU General Public License V3.0 ile lisanslanmıştır.
 
