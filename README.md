@@ -37,6 +37,6 @@ __*Katkida bulunanlar:*__
 
 *Mert Duşakabin'e bana böyle bir program yazma fikri verdiği için teşekkür ederim.*
 
-*Algoritmayı oluşturduğun için teşekkür ederim.*
+*Mahir Öztekin'e algoritmayı oluşturduğu için teşekkür ederim.*
 
 ![Algoritma](Lugatca.png?raw=true "Lugatça Algoritma")
