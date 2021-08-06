@@ -2,7 +2,7 @@
 
 This project is licensed under the terms of the GNU General Public License v3.0 license.
 
-Hello everyone, I am here to announce that I am making a only-python program that can translate "Lugat-it BGY" words to Turkish. This alghoritm is created by mahiroztekin. He created this because of the Restrictions that Facebook has. This is the first version of this program and I will add new features to this program.
+Hello everyone, I am here to announce that I am making am only-python program that can translate "Lugat-it BGY" words to Turkish. This alghoritm is created by mahiroztekin. He created this because of the Restrictions that Facebook has. This is the first version of this program and I will add new features to this program.
 
 **Some of my milestones on this project:**
 
